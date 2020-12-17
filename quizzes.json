@@ -1,0 +1,72 @@
+[
+  {
+    "title": "How well do you know Bakugo?",
+    "questions": [
+      {
+        "question": "What is Bakugo's first name?",
+        "alternatives": [" Katsugi", " Kakashi", " Katsuki", " Katsumi"]
+      },
+      {
+        "question": "When is his birthday?",
+        "alternatives": [" April 20", " April 27", " April 2", " April 17"]
+      },
+      {
+        "question": "What are his parents' names?",
+        "alternatives": [
+          " Mikasa and Masaru",
+          " Mitsuki and Masaru",
+          " Mitsuki and Masayo",
+          " Mikasa and Masayo"
+        ]
+      },
+      {
+        "question": "Fill in the blank: HERE WE GOOO!! -------------------",
+        "alternatives": [
+          " members of the agency bakugo!!",
+          " members of the tregacyyy bakugo!!",
+          " members of the legacy bakugo",
+          " members of the rage bakugo!!!"
+        ]
+      },
+      {
+        "question": "Who are in his friend group?",
+        "alternatives": [
+          " Tenya, Ochako, Deku, Shoto",
+          " Kirishima, Denki, Sero, Mina",
+          " Kirishima, Deku, Shoto, Tenya",
+          " Sero, Denki, Mineta"
+        ]
+      },
+      {
+        "question": "What is his quirk called?",
+        "alternatives": [" Ignition", " Dynamite", " Explosion", " Denotation"]
+      },
+      {
+        "question": "What did he want his hero name to be?",
+        "alternatives": [
+          " TNT",
+          " Denotator",
+          " King Explosion Murder",
+          " Dynamite"
+        ]
+      },
+      {
+        "question": "What is his height?",
+        "alternatives": [" 172cm", " 175cm", " 181cm", " 170cm"]
+      },
+      {
+        "question": "How old is he? (as of season 4)",
+        "alternatives": [" 16", " 17", " 14", " 15"]
+      },
+      {
+        "question": " And finally, what is his goal?",
+        "alternatives": [
+          " To restore peace in the world!!",
+          " To save innocent lives and bring justice to the world!!",
+          " To surpass All Might and become the number 1 hero!!",
+          " To surpass Deku and become the number 1 hero!!"
+        ]
+      }
+    ]
+  }
+]
