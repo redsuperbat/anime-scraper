@@ -108,6 +108,7 @@ async function appendDataToFile(fileName, data) {
 }
 
 async function main() {
+  await getQuestions();
   await getAnswers();
 }
 
