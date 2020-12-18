@@ -1,4 +1,4 @@
-import { chromium as playwright } from "playwright";
+import { firefox as playwright } from "playwright";
 import fs from "fs/promises";
 
 async function getQuestions() {
@@ -47,7 +47,7 @@ async function getAnswers() {
   const quizes = JSON.parse(
     await fs.readFile("quizzes.json", { encoding: "utf-8" })
   );
-  const browser = await playwright.launch({ headless: false, slowMo: 100 });
+  const browser = await playwright.launch({ headless: true });
   const page = await browser.newPage();
   for await (const quiz of quizes) {
     console.log("Doing quiz", quiz.title);
@@ -68,15 +68,20 @@ async function getAnswers() {
   }
 
   async function checkAllAlternatives(alternatives, site, questionIndex) {
-    for await (const alternative of alternatives) {
-      console.log("Trying alternative", alternative);
+    for (const alt of alternatives) {
       await page.waitForSelector("#show_all_q");
       await page.click("#show_all_q");
       const alts = await page.$$(`#q${questionIndex + 1}a >> .opt`);
-      await alts[alternatives.indexOf(alternative)].click();
-      // await page.click(
-      //   `.q >> text=${questionTitle} >  *css=.opt >> text=${alternative}`
-      // );
+      for await (const elAlt of alts) {
+        const text = await elAlt.textContent();
+        if (text.includes(alt)) {
+          await elAlt.click();
+          break;
+        }
+      }
+      const index = alternatives.indexOf(alt);
+      console.log("Trying alternative", alt, "@ index", index);
+
       await page.click(".qbutton");
       await page.waitForSelector("span[style='font-size:2em;']");
       const resultString = await page.$eval(
@@ -86,8 +91,7 @@ async function getAnswers() {
       const result = Number(resultString.slice(0, -1));
       console.log(result);
       if (result > 0) {
-        const index = alternatives.indexOf(alternative);
-        return { alternative, index };
+        return { alternative: alt, index };
       } else {
         try {
           await page.goto(site, { waitUntil: "networkidle" });

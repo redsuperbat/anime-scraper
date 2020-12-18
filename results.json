@@ -534,5 +534,437 @@
         "answer": { "alternative": " Thanks, I loved it", "index": 0 }
       }
     ]
+  },
+  {
+    "site": "https://www.quotev.com/quiz/13187727/Can-you-name-the-anime-based-on-the-poor-description",
+    "title": "Can you name the anime based on the poor description?",
+    "questions": [
+      {
+        "question": "Pipsqeak older brother uses chemistry to protect younger brother that has no body and only a soul stuck inside an armor, while looking for a stone that can only be created by genocide.",
+        "alternatives": [
+          " My Hero Academia",
+          " Fullmetal Alchemist",
+          " Hunter x Hunter",
+          " Angels of Death",
+          " Danganronpa"
+        ],
+        "imgUrl": null,
+        "answer": { "alternative": " Fullmetal Alchemist", "index": 1 }
+      },
+      {
+        "question": "High school boy follows in his idol's footsteps all while being bullied because of jealousy and bully gets kidnapped by bad guys because they want him to join the dark side.",
+        "alternatives": [
+          " Hunter x Hunter",
+          " My Hero Academia",
+          " Charolette",
+          " Bungo Stray Dogs",
+          " Golden Time"
+        ],
+        "imgUrl": null,
+        "answer": { "alternative": " My Hero Academia", "index": 1 }
+      },
+      {
+        "question": "Bald guy is bored because he is overpowered and cannot be beaten.",
+        "alternatives": [
+          " Fullmetal Alchemist",
+          " Hunter x Hunter",
+          " One Punch Man",
+          " Seraph of the End",
+          " The Seven Deadly Sins"
+        ],
+        "imgUrl": null,
+        "answer": { "alternative": " One Punch Man", "index": 2 }
+      },
+      {
+        "question": "Twelve year old with strong sense of smell looks for his dad with his best friend assassin.",
+        "alternatives": [
+          " Hunter x Hunter",
+          " My Hero Academia",
+          " Fullmetal Alchemist",
+          " The Seven Deadly Sins",
+          " Charolette"
+        ],
+        "imgUrl": null,
+        "answer": { "alternative": " Hunter x Hunter", "index": 0 }
+      },
+      {
+        "question": "Poor girl goes into rich school because of scholarship and is mistaken as a boy and joins a host club that she hates at first but end up loving.",
+        "alternatives": [
+          " Maid-Sama",
+          " The Seven Deadly Sins",
+          " Himouto- Umaru-Chan!",
+          " Ouran High School Host Club",
+          " God of Highschool"
+        ],
+        "imgUrl": null,
+        "answer": { "alternative": " Ouran High School Host Club", "index": 3 }
+      },
+      {
+        "question": "Girl is student council president and harsh on boys but works at a maid cafe and is teased by this boy that has eyes for only her.",
+        "alternatives": [
+          " Ouran Highschool Host Club",
+          " Maid-Sama",
+          " Kakegurui",
+          " Miss Kobiyashi's Dragon Maid",
+          " Golden Time"
+        ],
+        "imgUrl": null,
+        "answer": { "alternative": " Maid-Sama", "index": 1 }
+      },
+      {
+        "question": "Boy with ability travels the world to get rid of everyone else's ability.",
+        "alternatives": [
+          " Ouran Highschool Host Club",
+          " Kakegurui",
+          " Charolette",
+          " Bungo Stray Dogs",
+          " Fairy Tail"
+        ],
+        "imgUrl": null,
+        "answer": { "alternative": " Charolette", "index": 2 }
+      },
+      {
+        "question": "Boy and his best friend are separated by vampires and boy is a vampire hunter while best friend is a vampire",
+        "alternatives": [
+          " Vampire Knight",
+          " Diabolik Lovers",
+          " Bungo Stray Dogs",
+          " Sword Art Online",
+          " Seraph of the End"
+        ],
+        "imgUrl": null,
+        "answer": { "alternative": " Seraph of the End", "index": 4 }
+      },
+      {
+        "question": "Boy gets stuck in game and if he dies in game. He dies in real life and he falls in love with a girl that is good at cooking",
+        "alternatives": [
+          " No Game, No Life",
+          " Sword Art Online",
+          " Fullmetal Alchemist",
+          " High Score Girl",
+          " Seraph of the End"
+        ],
+        "imgUrl": null,
+        "answer": { "alternative": " Sword Art Online", "index": 1 }
+      },
+      {
+        "question": " When opposite sex hugs them, they turn into animals.",
+        "alternatives": [
+          " Ouran High school Host Club",
+          " Fruits Basket",
+          " Code Geass",
+          " The Seven Deadly Sins",
+          " Sword Art Online"
+        ],
+        "imgUrl": null,
+        "answer": { "alternative": " Fruits Basket", "index": 1 }
+      },
+      {
+        "question": " Young boy has butler that is a demon.",
+        "alternatives": [
+          " Blue Exorcist",
+          " Fruits Basket",
+          " The Seven Deadly Sins",
+          " Seraph of the End",
+          " Black Butler"
+        ],
+        "imgUrl": null,
+        "answer": { "alternative": " Black Butler", "index": 4 }
+      },
+      {
+        "question": " Girl spawns zodiacs with keys and boy has fire magic.",
+        "alternatives": [
+          " Fruits Basket",
+          " Black Butler",
+          " Naruto",
+          " One Piece",
+          " Fairy Tail"
+        ],
+        "imgUrl": null,
+        "answer": { "alternative": " Fairy Tail", "index": 4 }
+      },
+      {
+        "question": " Giant humans eat smaller humans",
+        "alternatives": [
+          " Hunter x Hunter",
+          " Tokyo Ghoul",
+          " Attack on Titan",
+          " The Seven Deadly Sins",
+          " Blue Exorcist"
+        ],
+        "imgUrl": null,
+        "answer": { "alternative": " Attack on Titan", "index": 2 }
+      },
+      {
+        "question": " Short blonde is perverted to princess and saves the day with his six buddies.",
+        "alternatives": [
+          " Attack on Titan",
+          " My Hero Academia",
+          " Fullmetal Alchemist",
+          " The Seven Deadly Sins",
+          " Fairy Tail"
+        ],
+        "imgUrl": null,
+        "answer": { "alternative": " The Seven Deadly Sins", "index": 3 }
+      },
+      {
+        "question": " Classmates kill each other in order to graduate and escape a black and white murderous bear.",
+        "alternatives": [
+          " Kill la Kill",
+          " Assassination Classroom",
+          " Blue Exorcist",
+          " Danganronpa",
+          " Angels of Death"
+        ],
+        "imgUrl": null,
+        "answer": { "alternative": " Danganronpa", "index": 3 }
+      },
+      {
+        "question": " First date with girl went bad and boy almost died when girl's insides were transplanted inside him and he turned into a monster.",
+        "alternatives": [
+          " Fullmetal Alchemist",
+          " Attack on Titan",
+          " Tokyo Ghoul",
+          " Miss Kobiyashi's Dragon Maid",
+          " Sword Art Online"
+        ],
+        "imgUrl": null,
+        "answer": { "alternative": " Tokyo Ghoul", "index": 2 }
+      },
+      {
+        "question": " Girl battles people with powerful but very revealing armor.",
+        "alternatives": [
+          " Kill la Kill",
+          " Akame Ga Kill",
+          " Highschool DxD",
+          " Fairy Tail",
+          " Danganronpa"
+        ],
+        "imgUrl": null,
+        "answer": { "alternative": " Kill la Kill", "index": 0 }
+      },
+      {
+        "question": " Pervert boy becomes pawn for demon girl",
+        "alternatives": [
+          " High school DxD",
+          " Blue Exorcist",
+          " Demon Slayer",
+          " Akame Ga Kill",
+          " The Seven Deadly Sins"
+        ],
+        "imgUrl": null,
+        "answer": { "alternative": " High school DxD", "index": 0 }
+      },
+      {
+        "question": " Sexulizes eating food...If you don't get this one right, you probably shouldn't be here.",
+        "alternatives": [
+          " Food Wars",
+          " Akame Ga Kill",
+          " Danganronpa",
+          " My Hero Academia",
+          " Prison School"
+        ],
+        "imgUrl": null,
+        "answer": { "alternative": " Food Wars", "index": 0 }
+      },
+      {
+        "question": " Twin brothers that are the sons of Satan fight demons.",
+        "alternatives": [
+          " Kill la Kill",
+          " Demon Slayer",
+          " Black Butler",
+          " Blue Exorcist",
+          " The Devil is a Part Timer"
+        ],
+        "imgUrl": null,
+        "answer": { "alternative": " Blue Exorcist", "index": 3 }
+      },
+      {
+        "question": " Satan has no magic power therefore he has to make a living in the human world with a human body.",
+        "alternatives": [
+          " Demon Slayer",
+          " The Devil is a Part Timer",
+          " Black Butler",
+          " The Seven Deadly Sins",
+          " Vampire Knight"
+        ],
+        "imgUrl": null,
+        "answer": { "alternative": " The Devil is a Part Timer", "index": 1 }
+      },
+      {
+        "question": " Vampire dudes fight over girl and she chooses her brother",
+        "alternatives": [
+          " Seraph of the End",
+          " Diabolik Lovers",
+          " Vampire Knight",
+          " Black Butler",
+          " Fairy Tail"
+        ],
+        "imgUrl": null,
+        "answer": { "alternative": " Vampire Knight", "index": 2 }
+      },
+      {
+        "question": " Killer notebook and death gods eating apples",
+        "alternatives": [
+          " God of Highschool",
+          " Noragami",
+          " Death Note",
+          " Death Parade",
+          " Kakegurui"
+        ],
+        "imgUrl": null,
+        "answer": { "alternative": " Death Note", "index": 2 }
+      },
+      {
+        "question": " God that kills phantoms",
+        "alternatives": [
+          " Durarara",
+          " Noragami",
+          " God of Highschool",
+          " Death Parade",
+          " Charolette"
+        ],
+        "imgUrl": null,
+        "answer": { "alternative": " Noragami", "index": 1 }
+      },
+      {
+        "question": " Gambling. Detailed Gambling.",
+        "alternatives": [
+          " God of Highschool",
+          " Durarara",
+          " Noragami",
+          " Kakegurui",
+          " Kill la Kill"
+        ],
+        "imgUrl": null,
+        "answer": { "alternative": " Kakegurui", "index": 3 }
+      },
+      {
+        "question": " Gay swim team",
+        "alternatives": [
+          " Haikyuu",
+          " Free",
+          " Hunter x Hunter",
+          " Danganronpa",
+          " Noragami"
+        ],
+        "imgUrl": null,
+        "answer": { "alternative": " Free", "index": 1 }
+      }
+    ]
+  },
+  {
+    "site": "https://www.quotev.com/quiz/12610484/How-well-do-you-know-attack-on-titan",
+    "title": "How well do you know attack on titan?!!",
+    "questions": [
+      {
+        "question": "Who is the main character in the series?",
+        "alternatives": [" Levi", " Eren", " Mikasa", " Jean"],
+        "imgUrl": "https://i.quotev.com/img/q/u/20/4/12/ueitkfchdj.jpg",
+        "answer": { "alternative": " Eren", "index": 1 }
+      },
+      {
+        "question": "How many titans did Eren kill in his human form?",
+        "alternatives": [" 2", " 1", " Umm.60?", " 4"],
+        "imgUrl": "https://i.quotev.com/img/q/u/20/4/12/ae6ohegtes.jpg",
+        "answer": { "alternative": " 1", "index": 1 }
+      },
+      {
+        "question": "What is the name of the largest wall?",
+        "alternatives": [
+          " Wall Maria",
+          " Wall rose",
+          " They are all the same size",
+          " Wall sina"
+        ],
+        "imgUrl": "https://i.quotev.com/img/q/u/20/4/12/h67ypoz66l.jpg",
+        "answer": { "alternative": " Wall Maria", "index": 0 }
+      },
+      {
+        "question": "What is Eren's father name?",
+        "alternatives": [" Grisha", " Hannes", " Keith", " Leonhart"],
+        "imgUrl": "https://i.quotev.com/img/q/u/20/4/12/he32dftxoj.jpg",
+        "answer": { "alternative": " Grisha", "index": 0 }
+      },
+      {
+        "question": "Who is the first person to be showed getting eaten by a titan?",
+        "alternatives": [" A young girl", " Carla yeager", " Hannes", " Marlo"],
+        "imgUrl": "https://i.quotev.com/img/q/u/20/4/12/ycg5icalwg.jpg",
+        "answer": { "alternative": " Carla yeager", "index": 1 }
+      },
+      {
+        "question": "What is Sasha's nickname?",
+        "alternatives": [
+          " Cry baby",
+          " Queen of noses",
+          " Suicidal brat",
+          " Potato girl"
+        ],
+        "imgUrl": "https://i.quotev.com/img/q/u/20/4/12/vwardhkggy.jpg",
+        "answer": { "alternative": " Potato girl", "index": 3 }
+      },
+      {
+        "question": "Who inherted the founding titan powers after Uri Reiss?",
+        "alternatives": [
+          " Levi",
+          " Grisha Yeager",
+          " Freida Reiss",
+          " Historia Reiss"
+        ],
+        "imgUrl": "https://i.quotev.com/img/q/u/20/4/12/phtkvhjh3c.jpg",
+        "answer": { "alternative": " Freida Reiss", "index": 2 }
+      },
+      {
+        "question": "Who was the reason in Marco's death?",
+        "alternatives": [
+          " Reiner,Annie and Bertholdt",
+          " Sasha and connie",
+          " Attacked by 4 titans",
+          " Erwin and levi"
+        ],
+        "imgUrl": "https://i.quotev.com/img/q/u/20/4/12/7kj7vtyj7b.jpg",
+        "answer": { "alternative": " Reiner,Annie and Bertholdt", "index": 0 }
+      },
+      {
+        "question": "What did Armin want to see the most?",
+        "alternatives": [
+          " The zoo",
+          " The ocean",
+          " The desert",
+          " The mountains"
+        ],
+        "imgUrl": "https://i.quotev.com/img/q/u/20/4/12/diwaqulzt4.jpg",
+        "answer": { "alternative": " The ocean", "index": 1 }
+      },
+      {
+        "question": " Who was the first to call Jean a horse face?",
+        "alternatives": [" Marco", " Mikasa", " Annie", " Eren"],
+        "imgUrl": "https://i.quotev.com/img/q/u/20/4/12/ely2gpztdp.jpg",
+        "answer": { "alternative": " Eren", "index": 3 }
+      },
+      {
+        "question": " Who is the armored titan?",
+        "alternatives": [" Levi", " Eren", " Reiner", " Zeke"],
+        "imgUrl": "https://i.quotev.com/img/q/u/20/4/12/v2kdfdw7k5.jpg",
+        "answer": { "alternative": " Reiner", "index": 2 }
+      },
+      {
+        "question": " Who turned ragako villagers into titans?",
+        "alternatives": [
+          " The cart titan",
+          " The collosal titan",
+          " The beast titan",
+          " The attack titan"
+        ],
+        "imgUrl": "https://i.quotev.com/img/q/u/20/4/12/rxl6h7q47g.jpg",
+        "answer": { "alternative": " The beast titan", "index": 2 }
+      },
+      {
+        "question": " What were levi's first words?",
+        "alternatives": [" Tch", " Nifaaaaa", " Shut up", " Brat"],
+        "imgUrl": "https://i.quotev.com/img/q/u/20/4/12/xgoh3y4orl.jpg",
+        "answer": { "alternative": " Shut up", "index": 2 }
+      }
+    ]
   }
 ]
